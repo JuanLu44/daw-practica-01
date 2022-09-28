@@ -93,6 +93,5 @@ Párrafo 2.
 
 ![Sonic](images/sonic.png)
 
-Enlace al [nuevo archivo][1].
-[1]:nuevo.md 
+[Enlace al nuevo archivo](nuevo.md)
 
