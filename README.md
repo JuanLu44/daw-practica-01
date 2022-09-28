@@ -89,3 +89,6 @@ Párrafo 2.
 ---
 ---
 [![Neil Armstrong](http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSMGXg0X1uRS0lc7r593L7f9q2Sgfp1cnrZuN4SJs3com3YKWareCcjSs9V1D_0L7zO)](https://es.wikipedia.org/wiki/Neil_Armstrong)
+
+
+![Sonic](images/sonic.png)
